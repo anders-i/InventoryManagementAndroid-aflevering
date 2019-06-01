@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InventoryManagementAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="SearchButton">Søg</string>
+    <string name="SearchTextField">Søg her</string>
+    <string name="element_text">element</string>
+    <string name="searchTextField">Søg efter produkter</string>
+    <string name="searchButton">Søg</string>
+</resources>

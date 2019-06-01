@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidApiClients-1.0-SNAPSHOT/AndroidApiClients-1.0-SNAPSHOT.iml" filepath="$PROJECT_DIR$/AndroidApiClients-1.0-SNAPSHOT/AndroidApiClients-1.0-SNAPSHOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidApiLib-1.0-SNAPSHOT/AndroidApiLib-1.0-SNAPSHOT.iml" filepath="$PROJECT_DIR$/AndroidApiLib-1.0-SNAPSHOT/AndroidApiLib-1.0-SNAPSHOT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InventoryManagementAndroid.iml" filepath="$PROJECT_DIR$/InventoryManagementAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
