@@ -17,6 +17,7 @@ Installation:
 “admin” user permission to log in.
 3. Run query file “/DB_dump” to create the database.
 4. Edit the port number in “/AuthManagementServer/src/main/java/implementation/DataSource.java” and “/ProductManagementServer/src/main/java/implementation/DataSource.java” on line 31 to the port number your Database/PostgreSQL-server  is running on.
-5. Start an explorer and execute the  “/InventoryManagementAndroid/install-jars.bat” file.
-6. Start the servers by executing the “/AuthManagementServer/RunAllServers.bat” file. 
-7. The program is ready to be started by running InventoryManagementAndroid in Android Studio.
+5. Edit the ip on line 28 and 29 to your own ipv4 address.
+6. Start an explorer and execute the  “/InventoryManagementAndroid/install-jars.bat” file.
+7. Start the servers by executing the “/AuthManagementServer/RunAllServers.bat” file. 
+8. The program is ready to be started by running InventoryManagementAndroid in Android Studio.
