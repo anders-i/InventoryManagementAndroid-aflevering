@@ -8,6 +8,8 @@ Javac version 1.8.0
 Gradle version 3.4.1+
 Android Studio
 
+You also need to download the servers from https://github.com/anders-i/AuthManagementServer and https://github.com/anders-i/ProductManagementServer
+
 Installation:
 
 1. Create a database with a the name “postgres”
